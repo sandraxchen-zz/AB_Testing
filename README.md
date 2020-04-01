@@ -1,2 +1,2 @@
-# class-projects-marketing-analytics-assignment-1
+# AB Testing
 Assignment 1 for Marketing Analytics - A/B Testing for Booking.com
